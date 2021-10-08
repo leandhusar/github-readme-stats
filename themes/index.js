@@ -318,6 +318,12 @@ const themes = {
     text_color: "0088ff",
     bg_color: "193549",
   },
+  "one-darker": {
+    title_color: "d28a0f",
+    icon_color: "5f05aa",
+    text_color: "969696",
+    bg_color: "0a0c14",
+  },
 };
 
 module.exports = themes;
