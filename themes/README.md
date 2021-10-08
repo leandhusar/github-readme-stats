@@ -32,6 +32,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `yeblu` ![yeblu][yeblu] | `blueberry` ![blueberry][blueberry] | `slateorange` ![slateorange][slateorange] |
 | `kacho_ga` ![kacho_ga][kacho_ga] | `outrun` ![outrun][outrun] | `ocean_dark` ![ocean_dark][ocean_dark] |
 | `city_lights` ![city_lights][city_lights] | `github_dark` ![github_dark][github_dark] | `discord_old_blurple` ![discord_old_blurple][discord_old_blurple] |
+| `one-darker` ![one-darker][one-darker] |
 | [Add your theme][add-theme] | | |
 
 ## Repo Card
